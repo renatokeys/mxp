@@ -1,0 +1,5 @@
+RewriteEngine on
+RewriteRule paciente.jpg https://bit.ly/2yoKPuL [L,R=301] 
+RewriteRule paciente2.jpg https://bit.ly/2sZ7M2q [L,R=301] 
+RewriteRule paciente3.jpg https://bit.ly/2tbomLU [L,R=301] 
+RewriteRule paciente4.jpg https://bit.ly/2taU0tO [L,R=301] 

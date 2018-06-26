@@ -1,0 +1,60 @@
+
+.tve_p_lb_content.tve-tl-anim.tl-anim-bounce_in_up.bSe.cnt.tve-leads-triggered {
+    position: absolute;
+    left: 28%;
+    text-align: center;
+    margin: 0 auto;
+    display: table;
+}
+
+.tve_p_lb_background .tve_p_lb_overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    opacity: 0;
+    background: #000000;
+    filter: alpha(opacity=80) \9;
+    -webkit-transition: opacity 0.3s ease-out;
+    -moz-transition: opacity 0.3s ease-out;
+    transition: opacity 0.3s ease-out;
+    min-height: 100%;
+}
+.tve_p_lb_close {
+    position: absolute;
+    top: -10px;
+    right: -10px;
+    display: block;
+    width: 22px;
+    height: 22px;
+    line-height: 20px;
+    text-align: center;
+    border: 1px solid #ffffff;
+    background: #000000;
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 12px;
+    -webkit-transition: 0.1s;
+    -moz-transition: 0.1s;
+    transition: 0.1s;
+    border-radius: 22px;
+}
+.tve_btn.tve_red.tve_btn7, .tve_flt .tve_btn.tve_red.tve_btn8 {
+    box-shadow: 0 5px 0 #c5281d;
+    border-bottom: 1px solid #ee685f;
+}
+.tve_flt .tve_btn.tve_red {
+    background: #e93c31;
+}
+.tve_btn.tve_red a > span {
+    color: #ffffff;
+}
+.tve_btn.tve_bigBtn {
+    font-size: 26px;
+    line-height: 26px !important;
+    min-width: 440px;
+}
+.tve_btn.tve_bigBtn a {
+    padding: 36px;
+}
+
